@@ -1,0 +1,2 @@
+# Logistic_regression
+ Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more independent variables. The sigmoid function is an S-shaped function that “squashes” the value into the range [0,1] so that we may interpret the value as a probability. Here, it is implemented on data consisting of scores of two exams and their admission status. 
